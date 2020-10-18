@@ -1,0 +1,122 @@
+
+.block1 {
+    width: 270px;
+    height:445px;
+    float: left;
+    padding: 10px;
+    
+    border-radius: 10mm;
+    margin-left: 180px;
+    margin-top:30px;
+    background-color: white;
+}
+.block2{
+        width: 200px;
+        height:280px;
+        float: left;
+        
+        
+        margin-left: 35px;
+        margin-top:30px;
+        border-radius: 10mm;
+        background-color: rgb(143, 219, 255);
+    }
+
+    .block3, .block4{
+        width: 200px;
+        height:280px;
+        float: left;
+        
+        
+        margin-left: 35px;
+        margin-top:30px;
+        border-radius: 10mm;
+        background-color: rgb(143, 219, 255);
+    }
+
+    .block5{
+        width: 200px;
+        height:280px;
+        float: left;
+        
+        
+        margin-left: 35px;
+        margin-top:30px;
+        border-radius: 10mm;
+        background-color: rgb(143, 219, 255);
+    }
+
+
+    .block6{
+        width: 200px;
+        height:280px;
+        float: left;
+        
+        
+        margin-left: 35px;
+        margin-top:30px;
+        border-radius: 10mm;
+        background-color:  rgb(143, 219, 255);
+    }
+
+    .block7{
+        width: 200px;
+        height:280px;
+        float: left;
+        
+        
+        margin-left: 35px;
+        margin-top:30px;
+        border-radius: 10mm;
+        background-color: rgb(143, 219, 255);
+    }
+
+    .button1{
+        width:180px;
+        height: 25px;
+        border-radius: 15px;
+        background-color: darkblue;
+        color: white;
+    }
+    
+    .block-header{
+        color:white;
+        font-size: 18px;
+        padding:1px;
+        padding-left:30px ;
+        padding-right:30px ;
+        text-align: center;
+    }
+
+    .image{
+        padding-top: 5px;
+        padding-left: 60px;
+        padding-right: 60px;
+    }
+
+    .block-footer{
+        
+        background-color: white;
+        padding-left:50px;
+        padding-top:10px;
+        padding-bottom:40px;
+        border-bottom-left-radius: 10mm;
+        border-bottom-right-radius: 10mm;
+    }
+    .button2{
+        width:100px;
+        height: 25px;
+        border-radius: 15px;
+        background-color: rgb(151, 197, 151);
+        color: white;
+        border: none;
+    }
+    .button3{
+        width:100px;
+        height: 25px;
+        border-radius: 15px;
+        background-color: darkblue;
+        color: white;
+        border: none;
+    
+    }
